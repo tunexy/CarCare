@@ -1,0 +1,1 @@
+json.extract! @vehicle, :id, :image_url, :make, :model, :year, :enginesize, :cupiccapacity, :price, :securitytype, :bodytype, :fueltype, :colour, :milleage, :transmission, :taxdue, :nctdue, :platenumber, :created_at, :updated_at
